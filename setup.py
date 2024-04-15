@@ -1,6 +1,6 @@
 """
-    Project: shhistory (https://github.com/azazelm3dj3d/shhistory)
-    Author: azazelm3dj3d (https://github.com/azazelm3dj3d)
+    Project: shhistory (https://github.com/battleoverflow/shhistory)
+    Author: battleoverflow (https://github.com/battleoverflow)
     License: BSD 2-Clause
 """
 
@@ -11,12 +11,12 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "shhistory",
-    version = "0.1.8",
-    author = "azazelm3dj3d",
+    version = "0.1.9",
+    author = "battleoverflow",
     description = "Simple Python library to return your shell history or dump to a nicely formatted JSON file.",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/azazelm3dj3d/shhistory",
+    url = "https://github.com/battleoverflow/shhistory",
     classifiers = [
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",
